@@ -12,7 +12,7 @@ Sicherlich haben die meisten schon von Linux gehört, insbesondere Leute die (ve
 
 ## Linux
 
-(Linux.com)[https://www.linux.com/what-is-linux/] sagt zu der Frage was Linux ist folgendes:
+[Linux.com](https://www.linux.com/what-is-linux/) sagt zu der Frage was Linux ist folgendes:
 
 > Just like Windows, iOS, and Mac OS, Linux is an operating system. In fact, one of the most popular platforms on the planet, Android, is powered by the Linux operating system. An operating system is software that manages all of the hardware resources associated with your desktop or laptop. To put it simply, the operating system manages the communication between your software and your hardware. Without the operating system (OS), the software wouldn?t function.
 
@@ -70,7 +70,7 @@ Ich möchte allerdings nicht verschweigen dass es auch POSIX kompatible Alternat
 
 Diese Alternativen zu den GNU coreutils bringen allerdings ganz eigene Probleme mit sich, unter anderem den reduzierten (POSIX entsprechenden) Funktionsumfang und teilweise auch die Größe der Projekte und die dadurch entstehenden Risiken was die Zukunft, Bugfixing etc. eines Projekts angeht.
 
-Es gibt auch komplette, GNU freie, Linux Distributionen wie beispielsweise [Alpine]()
+Es gibt auch komplette, GNU freie, Linux Distributionen wie beispielsweise [Alpine](https://www.alpinelinux.org/)
 <br>
 <hr>
 <br>

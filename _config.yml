@@ -17,9 +17,8 @@ author:
   email: david.breier@outlook.de # email adress
 
 # URL settings
-#url: "https://herr-breier.de" #
-#  baseurl: "/Gesko" # leave blank if not wishd
-#  permalink: "https://herr-breier.de/Gesko/"
+url: "https://herr-breier.de" #
+baseurl: "" # leave blank if not wishd
 permalink: pretty 
 
 
@@ -54,10 +53,10 @@ plugins:
 collections:
   pages:
     output: true
-    permalink: /:name
+      #    permalink: /:name
   posts:
     output: true
-    permalink: /:year/:month/:day/:slug
+      #    permalink: /:year/:month/:day/:slug
   
 defaults:
   -
