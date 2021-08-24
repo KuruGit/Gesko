@@ -49,4 +49,6 @@ Welche Zertifizierung man tatsächlich bevorzugt ist im wesentlichen Geschmackss
 
 Debian ist eine sehr lang gereifte (Bj. 1993) Linux Distribution deren Markenzeichen es ist nur absolut sichere und getestete Software auszuliefern. Dadurch ist Debian immer etwas hinter der Zeit, erkauft sich damit aber eine sehr hohe Systemstabilität. Debian ist aus diesem Grund insbesondere im Serverumfeld sehr beliebt und eignet sich für Desktop User, die nicht nur 10 Jahre alte Software nutzen möchten, eher weniger.
 
+#### Ubuntu
+
 Hier kommt Ubuntu ins Spiel dass als Abkömmling von Debian konzipiert wurde mit dem Ziel Debian für den Normaluser nutzbar zu machen. Mittlerweile ist Ubuntu ebenfalls eine sehr ausgereifte Distribution (Bj. 2004) und veröffentlicht in einem halbjährlichen Rhythmus eine neue Version, sowie alle zwei Jahre ein long term release mit erweitertem Support. 
