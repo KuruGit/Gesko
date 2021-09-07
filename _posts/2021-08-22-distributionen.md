@@ -66,14 +66,25 @@ Der Großteil der verwendeten Software entspricht dem Standard und die Dokumenta
 
 #### openSUSE
 Suse führe ich hier aus drei Gründen auf. Zum einen, um das einmal vorweg zu nehmen, stand das S.u.S.E. in SuSE Linux ursprünglich als Akronym für **S**oftware- **u**nd **S**ystem-**E**ntwicklung. Das ist deshalb so weil SUSE ursprünglich aus Deutschland kommt und 1992 in Nürnberg das Licht der Welt erblickte. 
+
+**Eigenschaften von SUSE** 
+
 Neben diesem kleinen Ausflug in den Lokalpatriotismus bietet SUSE, bzw. sein freier Ableger openSUSE auch einige andere interessante Eigenschaften.
-Zum einen ist SUSE quasi eine Eigenentwicklung die, im Gegensatz zu vielen anderen Distributionen, eben *nicht* auf einer der größeren Distributionen wie Debian/Ubuntu, Arch und wie sie alle heißen basiert. Das kann man als Vor- oder Nachteil sehen, hebt SUSE aber mit einer Reihe an Software Eigenentwicklungen aus der Masse heraus. So benutzt SUSE einen eigenen [Package Manager](https://de.opensuse.org/Zypper), ein eigenes [Snapshot-](https://de.opensuse.org/openSUSE:Snapper_Tutorial) und bringt, jedenfalls in der Enterprise Version, auch professionelle Tools für Aufgaben wie [Hochverfügbarkeit](https://www.suse.com/de-de/products/highavailability/), [Storage Management](https://www.suse.com/de-de/products/longhorn/) oder [Cotainerverwaltung](https://www.suse.com/de-de/products/suse-rancher/) mit. Daneben ist SUSE Linux auch der Partner der Wahl für [SAP](https://www.suse.com/de-de/solutions/run-sap-solutions/).
+
+Zum einen ist SUSE quasi eine Eigenentwicklung die, im Gegensatz zu vielen anderen Distributionen, eben *nicht* auf einer der größeren Distributionen wie Debian/Ubuntu, Arch und wie sie alle heißen basiert. 
+Das kann man als Vor- oder Nachteil sehen, hebt SUSE aber mit einer Reihe an Software Eigenentwicklungen aus der Masse heraus. 
+So benutzt SUSE einen eigenen [Package Manager](https://de.opensuse.org/Zypper), ein eigenes [Snapshot-](https://de.opensuse.org/openSUSE:Snapper_Tutorial) und bringt, jedenfalls in der Enterprise Version, auch professionelle Tools für Aufgaben wie [Hochverfügbarkeit](https://www.suse.com/de-de/products/highavailability/), [Storage Management](https://www.suse.com/de-de/products/longhorn/) oder [Cotainerverwaltung](https://www.suse.com/de-de/products/suse-rancher/) mit. Daneben ist SUSE Linux auch der Partner der Wahl für [SAP](https://www.suse.com/de-de/solutions/run-sap-solutions/).
 
 Insgesamt stellt SUSE damit ein umfangreiches, stabiles System mit mehreren Jahrzehnten dar. Dies ist eine der Distributionen die nicht so schnell verschwinden werden.
 
 Dabei wird SUSE in verschiedenen Varianten entwickelt. SLES, also **S**USE **L**INUX **E**NTERPRISE **S**ERVER, ist das kommerzielle Enterprise Angebot von SUSE. 
 
 Daneben gibt es noch die "freie" Variante openSUSE die von einer starken und aktiven Community getrieben wird und in zwei Varianten daher kommt: einem rolling release[^rollingRelease] ([Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed)) und einem statischen release ([Leap](https://www.opensuse.org/#Leap)). 
+
+**Fazit**
+SUSE verfügt über eine sehr aktive Community und hat eine große Firma die das Projekt mittlerweile über Jahrzehnte voran treibt. 
+Neben Red Hat Linux ist SUSE die zweite Distribution die fest im Enterprise Bereich verankert ist, was es sicherlich für Menschen mit beruflichen Ambitionen im Linuxumfeld zusätzlich interessant macht. Aus dem größeren Backing ergeben sich unter anderem auch Neu- und Weiterentwicklungen die andere, kleinere Projekte vermutlich so nicht stemmen könnten, gerade das Snapshot und Backup Konzept von SUSE ist schon sehr ausgereift. 
+Für Anfänger ist es außerdem sehr angenehm dass SUSE quasi alle administrativen Aufgaben die auf dem System anfallen in seiner YAST Software unter einer einheitlichen Oberfläche vereint.
 
 #### Fedora
 
