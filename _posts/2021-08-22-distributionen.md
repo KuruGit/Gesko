@@ -86,6 +86,47 @@ SUSE verfügt über eine sehr aktive Community und hat eine große Firma die das
 Neben Red Hat Linux ist SUSE die zweite Distribution die fest im Enterprise Bereich verankert ist, was es sicherlich für Menschen mit beruflichen Ambitionen im Linuxumfeld zusätzlich interessant macht. Aus dem größeren Backing ergeben sich unter anderem auch Neu- und Weiterentwicklungen die andere, kleinere Projekte vermutlich so nicht stemmen könnten, gerade das Snapshot und Backup Konzept von SUSE ist schon sehr ausgereift. 
 Für Anfänger ist es außerdem sehr angenehm dass SUSE quasi alle administrativen Aufgaben die auf dem System anfallen in seiner YAST Software unter einer einheitlichen Oberfläche vereint.
 
+#### ZorinOS
+
+ZorinOS ist eine weitere, Ubuntu basierte, Distribution die sich an Anfänger richtet und insbesondere Umsteiger von Windows ansprechen soll. 
+Zorin OS wurde erst kürzlich in Version 16 veröffentlicht (Stand 08/2021) und kommt sowohl in einer kostenlosen *Core* als auch einer kostenpflichtigen *pro* Version daher.
+Die *pro* Version soll dabei $39 kosten und beinhaltet ein paar Goodies die der Core Version fehlen. Doch dazu später mehr.
+Wie eingangs erwähnt scheint sich ZorinOS unter anderem an Windows-Umsteiger zu richten und bietet im Auslieferungszustand ein sehr sauberes, helles und an Windows angelehntes, fast schon minimalistisches Design. Die Installation verläuft, wie bei den meisten Distributionen, über einen grafischen Installer.
+Danach wird man vom System mit einer geführten Tour durch die wichtigsten Systemfunktionen begrüßt.
+Ich hatte beim ausprobieren den Eindruck dass es ZorinOS insbesondere Anfängern einfach machen will. So scheinen die verfügbaren Einstellungen auf das wesentliche reduziert worden zu sein und bieten teilweise eine Reihe aussagekräftiger Presets an (beispielsweise kann man bei den Layouts zwischen mehreren Vorlagen auswählen: Windows-Layout, Mac, Ubuntu,...).
+Auch bei der Software geht ZorinOS keine Kompromisse ein und bietet vom Start weg Support für seine eigenen Software-Repositories, die von Ubuntu sowie Flathub und Snap was eigentlich alles abdecken sollte.
+Selbst die Integration von Wine zur Installation von Windows Software ist über einen *Rechtsklick* direkt zu erreichen und schön in das System integriert.
+Darüber hinaus bietet ZorinOS alle Annehmlichkeiten die man auch von anderen Ubuntu/Debian basierten Distributionen kennt.
+
+**Education Version**
+
+ZorinOS bietet eine Education Version seines Betriebssystems die direkt mit diverser freier, dem Zweck angemessener, Software kommt.
+Unter anderem gehören dazu Lernsoftware zu diversen Themen, aber auch Software für Videoconferencing und eine Software die eine hierarchische Steuerung/Überwachung der Schüler-Rechner von einem zentralen Lehrer-PC aus erlaubt ([Veyon.io](https://veyon.io/de/)).     
+
+**Pro Version**
+
+Neben der *Core* und der *Education* Version gibt es ebenfalls eine *Pro* Version von ZorinOS.
+> Disclaimer: Ich selber habe die Pro Version **nicht** getestet und beziehe mich nur auf die Informationen von der Website.
+Die *Pro* Version soll $39 kosten und beinhaltet, soweit ich sehen konnte, hauptsächlich weitere freie Software Packages die aber bereits kuratiert und ordentlich in das System integriert zu sein scheinen.
+Man zahlt also scheinbar weniger für die Software als solches sondern vielmehr für eine saubere und nahtlose Integration in das System.
+Eine genaue Liste mit Features der *Pro* Version lässt sich auf der [Homepage](https://zorin.com/os/pro/) einsehen.
+Persönlich scheint es mir als würde sich diese Version an Firmenkunden richten, denn neben dem was ZorinOS als *Professional-grade creative suite of apps* und *Advanced productivity software* bewirbt, sind bspw. eine touch/Stift fähige Notizsoftware ([Xournal++](https://xournalpp.github.io/)), eine Software zur Bildübertragung per Wi-Fi oder Miracast (bspw. für Präsentationen) und eine Software die einen KVM Switch nachahmt ([Barrier](https://github.com/debauchee/barrier)), die es erlaubt Maus/Tastatur aber auch Dinge wie die Zwischenablage zwischen Computern zu teilen. Ihr könnt also ganz einfach gleichzeitig an eurem Desktop, einem Raspberry PI und beispielsweise eurem Laptop arbeiten ohne die Hand von der Tastatur nehmen zu müssen. Sehr praktisch!
+Ebenfalls nennenswert ist vielleicht dass ZorinOS für seine *Pro* Version einen Update Support bis *mindestens* 04/2025 angekündigt hat und für seine Kunden einen Installationssupport bietet.
+
+**Zorin Grid**
+
+Grid wurde bisher nur angekündigt und scheint ein Tool zu sein dass die Linie der *Pro* Version fortsetzen soll.
+Die Software soll scheinbar eine Art Administrationsoberfläche für ein Netzwerk aus ZorinOS Rechnern bieten.
+Das geht zwar alles bereits jetzt schon mit [anderer Software](https://unix.stackexchange.com/questions/40401/linux-bulk-remote-administration). Die meisten tools richten sich dabei aber an den professionellen Administrator und bieten häufig für den Laien unzugängliche Kommandozeilentools. 
+Grid scheint sich für mich eher an Freizeit-Admins zu richten, beispielsweise in kleineren Firmen oder Schulen, die die Administration *nebenher* erledigen sollen und für die eine einfach zugängliche UI ohne große Einarbeitungszeit wichtig ist.
+Bisher ist Grid noch nicht erschienen, es lohnt sich aber die Augen offen zu halten.
+
+**Fazit**
+
+ZorinOS bringt ein auf Hochglanz poliertes Gesamtpaket mit bei dem zwar nur wenig wirklich neue Software auf den Tisch kommt, dafür aber die vorhandene Software exzellent in das System integriert wurde und besonderes Augenmerk darauf gelegt wurde dass alles wie aus einem Guss wirkt.
+Wer momentan Windows nutzt, aber gerne einmal sein Glück mit Linux versuchen möchte der sollte einen genauen Blick auf ZorinOS werfen.
+Vor allem kleinere Firmen, Schulen und Selbstständige könnten darüberhinaus mit der *Pro* Version glücklich werden. Diese scheint sich mit ihrem geringen Preis und der Software scheinbar an professionelle User zu richten, ohne direkt die Kosten für eine *echte* Enterprise Distribution wie Red Hat oder Suse zu verursachen die bei kleineren Firmen gerne mal das Budget sprengen kann.	
+
 #### Fedora
 
 
