@@ -82,6 +82,7 @@ Dabei wird SUSE in verschiedenen Varianten entwickelt. SLES, also **S**USE **L**
 Daneben gibt es noch die "freie" Variante openSUSE die von einer starken und aktiven Community getrieben wird und in zwei Varianten daher kommt: einem rolling release[^rollingRelease] ([Tumbleweed](https://en.opensuse.org/Portal:Tumbleweed)) und einem statischen release ([Leap](https://www.opensuse.org/#Leap)). 
 
 **Fazit**
+
 SUSE verfügt über eine sehr aktive Community und hat eine große Firma die das Projekt mittlerweile über Jahrzehnte voran treibt. 
 Neben Red Hat Linux ist SUSE die zweite Distribution die fest im Enterprise Bereich verankert ist, was es sicherlich für Menschen mit beruflichen Ambitionen im Linuxumfeld zusätzlich interessant macht. Aus dem größeren Backing ergeben sich unter anderem auch Neu- und Weiterentwicklungen die andere, kleinere Projekte vermutlich so nicht stemmen könnten, gerade das Snapshot und Backup Konzept von SUSE ist schon sehr ausgereift. 
 Für Anfänger ist es außerdem sehr angenehm dass SUSE quasi alle administrativen Aufgaben die auf dem System anfallen in seiner YAST Software unter einer einheitlichen Oberfläche vereint.
