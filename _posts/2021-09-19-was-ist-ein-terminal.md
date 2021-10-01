@@ -37,6 +37,9 @@ Teilweise verschmelzen hier auch ein wenig die Grenzen zur Shell. Damit wären w
 ### Die Shell
 
 Erinnert ihr euch noch als wir [im ersten Artikel]({% post_url 2021-08-14-Linux-Basics-Teil-1 %}) über die GNU Core Utils gesprochen haben? Im Prinzip ist die Shell das Programmgerüst über das diese weiteren Programme ausgeführt werden.
+Verschiedene Shells bringen verschiedene Funktionalitäten und Standardprogramme mit sich. Korn, Bash, Zsh und viele andere sind Beispiele für Shells die sich mal mehr und mal weniger voneinander unterscheiden.
+
+Welche Shell Ihr momentan verwendet könnt Ihr auf verschiedene Arten herausfinden. 
  
 ### Fußnoten
 [Terminal]: Siehe [Wikipedia](https://de.wikipedia.org/wiki/Terminal_(Computer) für eine schöne Definition
