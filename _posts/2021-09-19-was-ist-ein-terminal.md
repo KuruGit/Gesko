@@ -39,7 +39,27 @@ Teilweise verschmelzen hier auch ein wenig die Grenzen zur Shell. Damit wären w
 Erinnert ihr euch noch als wir [im ersten Artikel]({% post_url 2021-08-14-Linux-Basics-Teil-1 %}) über die GNU Core Utils gesprochen haben? Im Prinzip ist die Shell das Programmgerüst über das diese weiteren Programme ausgeführt werden.
 Verschiedene Shells bringen verschiedene Funktionalitäten und Standardprogramme mit sich. Korn, Bash, Zsh und viele andere sind Beispiele für Shells die sich mal mehr und mal weniger voneinander unterscheiden.
 
-Welche Shell Ihr momentan verwendet könnt Ihr auf verschiedene Arten herausfinden. 
+Welche Shell Ihr momentan verwendet könnt Ihr auf verschiedene Arten herausfinden:
+
+Zum einen könnt ihr direkt in die Konfigurationsdateien hineinschauen.
+
+~~~Bash
+less /etc/passwd|grep user
+~~~
+
+Unter /etc/passwd sind Informationen zu dem einzelnen Usern abgelegt, rufe ich beispielsweise oberen Befehl für meinen User _david_ auf, so bekomme ich folgenden output:
+
+~~~Bash
+less /etc/passwd|grep david
+david:x:1000:1000:david,,,:/home/david:/usr/bin/zsh
+~~~
+Die Einträge in dieser Datei sind durch _:_ geteilt und enthalten beispielsweise Informationen zum Usernamen, Home-Directory des Nutzers und so weiter. Wir werden uns diese Datei nochmal ansehen sobald wir behandeln wie man User anlegt und verwaltet. Uns interessiert gerade nur der letzte Eintrag:
+
+**:/usr/bin/zsh**
+
+Dieser sagt aus dass jedes neues Terminal dass für meinen User aufgerufen wird, erstmal mit ZSH als Shell startet. Hier könnte auch eine andere shell, beispielsweise die *bash* stehen. 
+
+ 
  
 ### Fußnoten
 [Terminal]: Siehe [Wikipedia](https://de.wikipedia.org/wiki/Terminal_(Computer) für eine schöne Definition
