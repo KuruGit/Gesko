@@ -55,9 +55,33 @@ david:x:1000:1000:david,,,:/home/david:/usr/bin/zsh
 ~~~
 Die Einträge in dieser Datei sind durch _:_ geteilt und enthalten beispielsweise Informationen zum Usernamen, Home-Directory des Nutzers und so weiter. Wir werden uns diese Datei nochmal ansehen sobald wir behandeln wie man User anlegt und verwaltet. Uns interessiert gerade nur der letzte Eintrag:
 
-**:/usr/bin/zsh**
+*:/usr/bin/zsh*
 
 Dieser sagt aus dass jedes neues Terminal dass für meinen User aufgerufen wird, erstmal mit ZSH als Shell startet. Hier könnte auch eine andere shell, beispielsweise die *bash* stehen. 
+
+Ebenfalls kann man aber auch die Shell über Umgebungsvariablen herausfinden:
+
+~~~Bash
+echo $SHELL
+~~~
+
+gibt beispielsweise die *default* Shell an die das System benutzt. Hier ist zu beachten dass dies nicht zwangsläufig auch die aktuell laufende Shell sein muss, sondern nur die mit der das Terminal normalerweise startet!
+
+Etwas *hackig* aber funktioniert normalerweise auch wäre dieser Befehl:
+
+~~~Bash
+echo $0
+~~~
+wobei $0 den aktuell laufenden Prozess anzeigt, in der Regel ist das die Shell. Eine andere Art den aktuellen Prozess anzuzeigen wäre aus der Variable $$ und wenn man es ganz genau wissen will kann man über den *ps* Befehl die Prozess-ID heraussuchen und auf den Namen des Prozesses filtern, das sieht dann so aus:
+
+~~~Bash
+ps -p "$$" -o command=""
+~~~
+ 
+Es gibt noch weitere Varianten die aber zum Teil auf spezifische Features einer Shell zugreifen. Selbst *ps -p* funktioniert anscheinend nicht auf allen Systemen, das habe ich persönlich allerdings noch nicht erlebt.
+
+
+
 
  
  
