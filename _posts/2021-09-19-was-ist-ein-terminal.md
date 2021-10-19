@@ -80,7 +80,34 @@ ps -p "$$" -o command=""
  
 Es gibt noch weitere Varianten die aber zum Teil auf spezifische Features einer Shell zugreifen. Selbst *ps -p* funktioniert anscheinend nicht auf allen Systemen, das habe ich persönlich allerdings noch nicht erlebt.
 
+Eine Liste der auf eurem System installierten Shells findet ihr bei den meisten Distributionen unter */etc/shells*
+Also beispielsweise anzeigbar über den Befehl:
 
+~~~Bash
+cat /etc/shells
+# /etc/shells: valid login shells
+/bin/sh
+/bin/bash
+/usr/bin/bash
+/bin/rbash
+/usr/bin/rbash
+/bin/dash
+/usr/bin/dash
+/usr/bin/tmux
+/usr/bin/sh
+/usr/bin/fish
+/usr/local/bin/fish
+/bin/zsh
+/usr/bin/zsh
+~~~
+#### kleine Liste von Shells
+
+Hier möchte ich *kurz* ein paar Shells vorstellen damit Ihr euch eine Vorstellung machen könnt wo die Unterschiede liegen:
+
+**Bash**
+ 
+Bash ist die meines Wissens am weitesten verbreitete Shell, gehört zum GNU Projekt und wurde Ende der 80er Jahre veröffentlicht und wird bis heute weiterentwickelt. 
+Unter anderem Ubuntu setzt auf die Bash und auch in MacOS kam sie lange Jahre zum Einsatz und wurde nur aus lizenzrechtlichen Gründen ersetzt.
 
 
  
