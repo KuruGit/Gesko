@@ -102,7 +102,9 @@ cat /etc/shells
 ~~~
 #### kleine Liste von Shells
 
-Hier möchte ich *kurz* ein paar Shells vorstellen damit Ihr euch eine Vorstellung machen könnt wo die Unterschiede liegen:
+Hier möchte ich *kurz* ein paar Shells vorstellen damit Ihr euch eine Vorstellung machen könnt wo die Unterschiede liegen.
+
+Diese Liste soll sukzessiv zusammen mit weiteren Artikeln zu den einzelnen Shells erweitert werden. 
 
 **Bash**
  
