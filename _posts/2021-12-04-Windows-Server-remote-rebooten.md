@@ -21,3 +21,7 @@ dabei sind die einzelnen flags:
 /t time delay
 
 Microsoft hat ebenfalls einen eigenen [Artikel](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown) zum shutdown Befehl und allen seinen flags.
+
+# Windows Kommando Referenz
+
+In diesem Zusammenhang ist sicher auch die [Windows Kommando Referenz](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands) sehr interessant. Hier findet man einen A bis Z Glossar aller Windows Server und Client Befehle für die Kommandozeile. Es lohnt sich hier mal durch zu scrollen!
