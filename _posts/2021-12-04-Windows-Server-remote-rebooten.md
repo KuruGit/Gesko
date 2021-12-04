@@ -17,7 +17,9 @@ shutdown /r /m \\{RemoteRechner} /t 60
 dabei sind die einzelnen flags:
 
 /r Restart
+
 /m \\{IP/Hostname} Remote Rechner
+
 /t time delay
 
 Microsoft hat ebenfalls einen eigenen [Artikel](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown) zum shutdown Befehl und allen seinen flags.
