@@ -17,7 +17,7 @@ Diesmal habe ich aber einfach eine Maschine in Virtualbox aufgesetzt und diese d
 
 Denn obwohl ich daran gedacht habe beim klonen der VM anzuhakeln dass die neue Maschine eine neue Mac-Adresse bekommt, war das nicht ausreichend!
 
-![Virtualbox klonen einer VM](../assets/pictures/Virtualbox_clone_dialogue.png)
+![Virtualbox klonen einer VM](/assets/pictures/Virtualbox_clone_dialogue.png)
 
 Nach dem Klonen der VM konnte ich beide VMs hochfahren, musste aber feststellen dass diese sich im Netzwerk nicht sehen konnten.
 Nach kurzer Suche dann die große Verwirrung:
