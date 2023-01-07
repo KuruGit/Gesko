@@ -66,6 +66,57 @@ Unter Bash geht das Ganze sogar noch kürzer indem man die descriptors einfach a
 /$ Programm >& Output_Datei
 ```
 
-## Ausblick
+## Umleitung mittels der Pipe in ein anderes Programm
+Nachdem wir nun gelernt haben wie man den Output eines Programms in eine Datei umleitet gibt es unter Linux auch die Möglichkeit den Output eines Programms direkt in ein anderes Programm umzuleiten, also den stdout eines Programms als stdin in ein weiteres Programm zu leiten - oder anders ausgedrückt: zu ***pipen***! 
 
-Nachdem wir nun gelernt haben wir man den Output eines Programms in eine Datei umleitet gibt es unter Linux auch die Möglichkeit den Output eines Programms direkt in ein anderes Programm umzuleiten. Dazu wird die Pipe "|" verwendet und mit diesem Thema beschäftigen wir uns im nächsten Artikel.
+Verwendet wird dafür die so genannte Pipe, also das Symbol was auf einer deutschen Tastatur erscheint wenn man <kbd><kbd>AltGr</kbd>+<kbd><</kbd></kbd> drückt. Das Symbol für die Pipe ist ein vertikaler Strich: <code>|</code>.
+
+Programme die über eine Pipe einen Datenstrom empfangen werden auch ***Filter*** genannt.
+
+**Achtung!** Wichtig zu beachten ist dass Pipes **unidirektional** sind! Das heisst Daten werden immer <code>von | links | nach | rechts</code> durch die Pipes geleitet. 
+
+### Syntax
+
+Die Syntax ist relativ einfach:
+
+```bash
+command_1 | command_2 | command_3 | .... | command_N
+```
+
+man führt also ***command_1*** aus wie man es immer ausführen würde, also bspw. inklusive aller Parameter. Der ***stdout*** von ***command_1*** wird dann in ***command_2*** als ***stdin*** gepiped und so weiter.
+
+### Beispiele
+
+Kommen wir nun zu ein paar anschaulichen, aber auch nützlichen Beispielen dafür wie man die Pipe nutzen kann:
+
+Nehmen wir an wir möchten eine sortierte Liste mit allen Benutzern des aktuellen Systems. Das kann man relativ leicht wie folgt durchführen:
+
+```bash
+cat /etc/passwd | sort | awk -F: '{print $1}'
+```
+
+Zur Erklärung: Als erstes wollen wir die Einträge aller User des Systems aus /etc/passwd mittels ***cat*** auslisten. Da diese Liste allerdings nicht sortiert ist, pipen wir sie in das ***sort*** Programm, dort werden die Zeilen dann alphabetisch sortiert. Als letztes wird es (nur ein bisschen) komplizierter weil wir nun unsere sortierte Liste mit Usern noch bereinigen möchten. Wir benötigen nämlich eigentlich nur die Liste der Namen, der Rest ist uns erstmal egal. In diesem Beispiel verwende ich dafür das Programm ***awk*** das wir an anderer Stelle auch nochmal besprechen werden. 
+
+Das Ergebnis obiger Operation könnte bspw. so aussehen:
+
+![Piping Beispiel 1](/assets/pictures/PipingExample1.png)
+
+Man könnte nun noch weiter gehen. Möchtest du wissen wieviele Benutzer das System hat? Einfach das Ergebnis obiger Operation in das Programm wordcount mit dem -l flag pipen:
+
+```bash
+cat /etc/passwd | sort | awk -F: '{print $1}' | wc -l 
+```
+
+Das Beste an der ganzen Sache ist dass nur der Datenstrom zwischen den Programmen angepasst wird, die ursprüngliche passwd Datei wird **nicht** verändert!
+
+Gerne wird die Pipe auch mit grep verwendet um das Ergebnis einer vorigen Operation nochmal mit irgendwelchen regular expression Regeln zu filtern.
+
+Bleiben wir bei unserem passwd Beispiel könnten wir beispielsweise einfach nach einem bestimmten User filtern, also beispielsweise:
+
+```Bash
+cat /etc/passwd | grep TestUser
+```
+
+Dies würde nur die Zeile der passwd auswerfen die den String "TestUser" enthält. 
+
+Ein anderes gern benutztes Programm in der Pipe ist ***uniq*** über das sich doppelte Einträge etc. ausfiltern lassen. Der Fantasie sind hier keine Grenzen gesetzt und es ist eine gute Idee sich mit dem Thema zu beschäftigen. Leider ist die Pipe dabei nur so mächtig wie das eigene Verständnis von den Tools die auf dem System verfügbar sind, aber wenn man das Prinzip einmal verstanden hat kann man sich richtig mächtige, automatisierte Workflows zusammen bauen die einem viel Arbeit abnehmen.
