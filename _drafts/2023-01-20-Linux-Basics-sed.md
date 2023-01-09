@@ -38,7 +38,15 @@ echo "I hate you!" | sed s/hate/love/
 Was passiert hier also?
 
 Der *sed* Befehl ruft das Programm auf, im einfachsten Fall folgt dann eine durchzuführende Operation und der Dateiname. 
-In unseren Beispielen oben führen wir dabei eine (s)ubstitution durch. Zwischen den Slashes "/" werden dabei der Suchbegriff und der Ersatzbegriff eingeschlossen. 
+In unseren Beispielen oben führen wir dabei eine (s)ubstitution durch. Zwischen den Slashes "/" werden dabei der Suchbegriff und der Ersatzbegriff eingeschlossen. Die Slashes werden dabei als Delimiter bezeichnet und können durch beliebige andere Symbole, bspw. Doppelpunkte (":"), ersetzt werden. Damit wäre also
+
+```Bash
+
+echo "I hate you" | sed s:hate:love:
+
+```
+
+ebenfalls eine valide Schreibweise!
 
 Beim ersten Beispiel folgt der (g)lobal Schalter der angibt dass der Ersatz global, also für den gesamten Text erfolgen soll. Ohne den global-Schalter würde nur das erste Auftreten von "dieses" ersetzt. 
 
@@ -46,7 +54,10 @@ Im zweiten Beispiel haben wir den (g)lobal-Schalter weggelassen da wir sowieso n
 
 Das zweite Beispiel illustriert dabei dass sed nicht unbedingt mit einer Datei gefüttert werden muss sondern auch direkt Daten bspw. aus einem anderen Befehl erhalten kann.
 
- 
+*sed* kann noch viel mehr, dies zu beschreiben würde aber den Umfang dieses (Einstiegs-)Artikels sprengen. Gegebenenfalls lasse ich nochmal einen weiteren Artikel mit ein paar umfangreicheren Beispielen folgen. Wichtig ist nur zu verstehen dass *sed* sehr mächtig ist um Textdaten nicht-interaktiv und automatisiert bearbeiten zu können.
 
+Im nächsten Schritt gehen wir etwas weiter und schauen uns das häufig gemeinsam mit *sed* verwendete tool *awk* an. 
+
+Abschließend bleibt vielleicht noch festzuhalten dass man sämtliche Operationen die wir mit *sed* und *awk* durchführen werden auch mit einem Perl-, Python oder anderweitigem Skript durchführen könnte. *sed* und *awk* gehören aber zum Standardumfang quasi aller moderner Linux Distributionen und bieten daher sowohl den Vorteil immer "mit an Bord" zu sein und die tools sind sehr klein und können in der Regel auch auf einem ausgelasteten Server laufen um bspw. große log files zu bearbeiten ohne einen nennenswerten impact auf die performance zu haben.
 
 
