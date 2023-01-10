@@ -9,7 +9,7 @@ date: 2023-01-20 00:00:00
 
 # sed - ein mächtiges Tool zur Verarbeitung von Text/Streaming-Daten
 
-[TODO:Link auf anderen Artikel einfügen!] Nachdem wir uns zuletzt angesehen haben wie data streams funktionieren und wie man Daten von einem Programm ins nächste pipen kann, wollen wir uns heute eines der beliebteren Tools für diesen Zweck ansehen. 
+Nachdem wir uns [zuletzt]({% post_url 2022-09-14-Linux-Streams %}) angesehen haben wie data streams funktionieren und wie man Daten von einem Programm ins nächste pipen kann, wollen wir uns heute eines der beliebteren Tools für diesen Zweck ansehen. 
 
 Der Name sed steht für *stream editor* und mit dem tool lassen sich weitreichende Änderungen an Texten durchführen wie beispielsweise search, delete oder replace Operationen. 
 
