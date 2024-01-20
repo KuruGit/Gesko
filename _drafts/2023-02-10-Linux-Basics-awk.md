@@ -20,6 +20,12 @@ Es gibt also durchaus noch Anwendungsszenarien für awk.
 
 
 
+## sed und awk arbeiten wunderbar zusammen
+
+Man kann `awk` sehr gut mit `sed` kombinieren. Anbei ein paar Beispiele. Eine kurze `sed` Einführung gibt es im [Artikel zu sed]({% post_url 2023-01-20-Linux-Basics-sed %}).
+
+
+
 
 
  
