@@ -43,15 +43,22 @@ kurzes Beispiel dass Word in 2007 meine B.Sc. gefressen hat, ich damals noch Wor
 - open source
 - sicher: Joplin supports end-to-end encryption 
 - einfache plain text Notizen bzw Markdown und komfortable Live Ansicht des fertigen Artikels
+- complete metadata (geolocation, updated time, created time, etc.) und Tags/Keywords
 - Import von Evernote und anderen Systemen möglich
 - Export in verschiedenste Formate, unter anderem auch einfacher Export ganzer Notizbücher als PDF,Markdown, HTML o.ä.
 - Integration von Plugins (insbesondere Webclipper, BibTex, Draw.io, eMail Plugin, Anki Sync)
-- Synchronisierung über verschiedene Plattformen mittels Nextcloud, Onedrive, GDrive usw.
+- Synchronisierung über verschiedene Plattformen mittels Nextcloud/WebDav, Dropbox, Onedrive, GoogleDrive oder einer eigenen Joplin Cloud oder wenn man sich die Mühe nicht machen will geht auch einfach ein S3 Bucket als Ziel
 - offline Arbeit ist möglich (keine Web App), Synch erfolgt sobald wieder Internet verfügbar ist
 - Kompatibel mit verschiedenen Systemen wie Windows, macOS, Linux, Android, and iOS
 - Standalone App ohne Installer (-> einfacher Betrieb auf fremden oder Arbeitsrechnern)
 - einfache Integration externer Editoren wie Typora
-- 
+- Anhängen sämtlicher Dateitypen und direktes Einbinden von gängigen Dateien in den Fließtext (Grafiken, Diagramme, Animationen, Videos usw.)
+
+Nachteile von Joplin
+
+Der größte Nachteil ist dass Joplin nicht, wie einige andere Notizprogramme, eine einfache flat file Architektur verfolgt sondern ein relativ komplexes Backend inklusive einer SQLite Datenbank verwendet. Ob einen das stört muss man selber entscheiden, für mich haben sich bisher noch keine Nachteile ergeben und man kann auch alle Notizen simpel exportieren.
+
+![Entnommen aus: https://joplinapp.org/help/dev/spec/architecture](assets/Application.png)
 
 
 
