@@ -68,5 +68,12 @@ Der größte Nachteil ist dass Joplin nicht, wie einige andere Notizprogramme, e
 - Webclipper -> Clipping von Artikeln
 - Als Audio file. Ich benutze dafür den Google Recorder (nur für Pixel Handies?) der eine Transkribierung in Text erlaubt. Danach kann man dann den transkribierten Text oder die Audiodatei mit Joplin über die share Funktionalität teilen und dort eine Notiz anlegen und diese dann ggf. weiter in Joplin bearbeiten
 
+## Zeitmanagement
 
+Wie bekomme ich Informationen möglichst einfach und schnell in mein Notizenprogramm und was sollte ich dort überhaupt notieren?
+
+- Weiterleitung von Mails,
+- einfügen von voice Notizen
+- eine Notiz für stream of consciousness oder andere kurze Gedanken
+- inbox zero gedanke bei Mails etc 
 
