@@ -54,9 +54,11 @@ kurzes Beispiel dass Word in 2007 meine B.Sc. gefressen hat, ich damals noch Wor
 - einfache Integration externer Editoren wie Typora
 - Anhängen sämtlicher Dateitypen und direktes Einbinden von gängigen Dateien in den Fließtext (Grafiken, Diagramme, Animationen, Videos usw.)
 
-Nachteile von Joplin
+### Nachteile von Joplin
 
-Der größte Nachteil ist dass Joplin nicht, wie einige andere Notizprogramme, eine einfache flat file Architektur verfolgt sondern ein relativ komplexes Backend inklusive einer SQLite Datenbank verwendet. Ob einen das stört muss man selber entscheiden, für mich haben sich bisher noch keine Nachteile ergeben und man kann auch alle Notizen simpel exportieren. Ein weiterer Nachteil könnte sein dass die Desktop App auf Electron basiert und einen relativ großen Overhead produziert. Bei mir ist es mittlerweile so dass die App durchaus 500MB Ram verbrauchen kann und sich damit für schwachbrüstige Rechner wie einen Raspberry Pi oder ähnliches nur bedingt eignen wird.
+Der größte Nachteil ist dass Joplin nicht, wie einige andere Notizprogramme, eine einfache flat file Architektur verfolgt sondern ein relativ komplexes Backend inklusive einer SQLite Datenbank verwendet. Ob einen das stört muss man selber entscheiden, für mich haben sich bisher noch keine Nachteile ergeben und man kann auch alle Notizen simpel exportieren. Ein weiterer Nachteil könnte sein dass die Desktop App auf Electron basiert und einen relativ großen Overhead produziert. Bei mir ist es mittlerweile so dass die App durchaus 500MB Ram verbrauchen kann und sich damit für schwachbrüstige Rechner wie einen Raspberry Pi oder ähnliches nur bedingt eignen wird. 
+
+Außerdem gibt es zwar sehr viele Extensions und Plugins für Joplin, diese werden aber zum größten Teil von der Community bzw einzelnen Nutzern entwickelt und schwanken daher in Qualität und Entwicklungsstand erheblich. Andererseits hat man aufgrund der open source Natur von Joplin und seinen Erweiterungen durchaus die Möglichkeit auch selbst Hand anzulegen und entweder eine eigene Erweiterung zu schreiben, oder bestehende Plugins zu verbessern.
 
 ![Entnommen aus: https://joplinapp.org/help/dev/spec/architecture](assets/Application.png)
 
