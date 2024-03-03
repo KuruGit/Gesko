@@ -79,10 +79,12 @@ Wie bekomme ich Informationen möglichst einfach und schnell in mein Notizenprog
 - eine Notiz für stream of consciousness oder andere kurze Gedanken
 - inbox zero gedanke bei Mails etc 
 
-## Risiken und Warnung zur Nutzung	
+## Risiken und Warnung zur Nutzung und Grenzen	
 
 Es gibt tausende Tools dort draußen, von Notizen Managern wie Joplin über Kalender und Zeitmanagement Apps, Literaturmanagern, Aggregatoren, Todo-Listen und einer Million anderer Themen. Wichtig ist seinem eigenen Workflow treu zu bleiben. Ich selber habe auch schon zig Todo Apps durchprobiert, habe es mit Pomodoro und Zeitmanagement Apps probiert und für mich selber herausgefunden dass ich mit den meisten dieser Apps nichts anfangen kann. Im Gegenteil, viele dieser Apps bringen mich überhaupt erst dazu über Probleme nachzudenken von denen ich nicht wusste dass ich sie angeblich hatte! Dadurch nimmt man sich selbst aber keine Arbeit ab sondern schafft sich höchstens mehr Arbeit. Das Ziel sollte es doch aber sein einem (Denk-) Arbeit abzunehmen.
 
 Ich habe beispielsweise ein paar Tage mit dem Versuch verbracht alle meine verschiedenen Informationsquellen an einem Ort zusammenzuziehen, also Bookmarks, Zitate und Markierungen von Websites bis zu ganzen Artikeln (am Besten mit Zeitstempel oder direkt einer Kopie der ganzen Seite). Vor einer Weile habe ich für diesen Zweck schonmal mit Pocket herumgespielt, bin aber insgesamt wieder davon abgekommen da ich zum einen zum Hoarding neige und praktisch einfach alles zum später lesen abspeichere (um es dann nie wieder anzusehen) und mich außerdem gestört hat dass ich dann neben Joplin noch mindestens einen weiteren Ort habe an dem ich nach Informationen suchen muss.
 
 Jetzt hat mich aber wieder der Ehrgeiz gepackt zu schauen ob ich meinen Workflow noch irgendwie verbessern kann. Dabei habe ich mehrere Apps getestet, namentlich Raindrop, Instapaper und Readwise.
+
+Abgrenzen sollte man eine Notizlösung wie Joplin auch gegen kollaborative Lösungen wie beispielsweise ein Wiki. Grundsätzlich erfüllen Wikis und Notizen Apps in meinen Augen eine ähnliche Funktion (Aufbau einer Wissensdatenbank), Notizen sind aber eher für Einzelpersonen gedacht (die dann ggf. Notizen und Erkenntnisse teilen) während ein Wiki eigentlich immer für die Zusammenarbeit in Gruppen gedacht ist. Deshalb würde ich bei der Auswahl des richtigen Tools, und das betone ich immer wieder, auf den Anwendungsfall schauen bevor man anfängt.
