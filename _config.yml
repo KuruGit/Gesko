@@ -3,7 +3,7 @@ title: Herr-Breier.de Blog
 description: >-
   just a minimalist, personal blog
 googlewebfonts: Fira+Code:wght@400;500;700
-lang: en-US
+lang: de-DE
 timezone: Berlin
   #repo: https://github.com/p0wex/Gesko # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
@@ -14,7 +14,7 @@ author:
   username: dave # general username
   github: Kurugit # github username
     #twitter: P0Wex # twitter username
-  email: david.breier@outlook.de # email adress
+  email: david@herr-breier.de # email adress
 
 # URL settings
 url: "https://herr-breier.de" #
