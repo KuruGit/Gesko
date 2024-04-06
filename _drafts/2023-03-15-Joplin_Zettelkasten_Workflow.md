@@ -88,3 +88,35 @@ Ich habe beispielsweise ein paar Tage mit dem Versuch verbracht alle meine versc
 Jetzt hat mich aber wieder der Ehrgeiz gepackt zu schauen ob ich meinen Workflow noch irgendwie verbessern kann. Dabei habe ich mehrere Apps getestet, namentlich Raindrop, Instapaper und Readwise.
 
 Abgrenzen sollte man eine Notizlösung wie Joplin auch gegen kollaborative Lösungen wie beispielsweise ein Wiki. Grundsätzlich erfüllen Wikis und Notizen Apps in meinen Augen eine ähnliche Funktion (Aufbau einer Wissensdatenbank), Notizen sind aber eher für Einzelpersonen gedacht (die dann ggf. Notizen und Erkenntnisse teilen) während ein Wiki eigentlich immer für die Zusammenarbeit in Gruppen gedacht ist. Deshalb würde ich bei der Auswahl des richtigen Tools, und das betone ich immer wieder, auf den Anwendungsfall schauen bevor man anfängt.
+
+## Handschriftliche Notizen
+
+Momentan fertige ich handschriftliche Notizen auf meinem Tablet, einem [Samsung S6 Lite](https://amzn.to/3TOlpgH), bei dem ich meistens einfach die schlanke, Samsung-eigene Notizen Software verwende. Es gibt noch andere sehr gute Programme die sich beispielsweise (besser) zum annotieren von PDF Dateien wie Büchern, Skripten oder akademischen Papern eignen, aber die sind mir meistens zu überladen.
+
+Nach dem Schreiben exportiere ich die Notizen meistens als einfache Bilddatei und importiere diese dann in Joplin und füge sie in die geeignete Notiz ein. Das ist nicht die eleganteste Lösung, aber funktional und mache ich in der Regel auch nur im Ausnahmefall. Ich habe für mich aber selber festgestellt dass ich handschriftlich (egal ob digital oder auf Papier) kreativer bin und besser denken kann. Sachen wie Rechenaufgaben für die Uni, Workflows und Mindmaps erstelle ich deshalb meistens erst handschriftlich und übertrage diese dann ggf. langfristig in digitale "schöne" Form. Ich finde es auch angenehmer während Vorlesungen oder Besprechungen keinen dicken Laptop vor mir zu haben sondern mir einfach Notizen auf dem Tablet zu machen. Das erscheint mir sozialer (weniger optische Barrieren!), man tippert nicht ständig auf der Tastatur und man hat ggf. noch den "Vorteil" sich zwangsweise im Anschluss nochmal mit der Notiz befassen zu müssen; je nach Art der Besprechung ist das keine schlechte Idee.
+
+## Was noch fehlt
+
+Was mir persönlich noch fehlt ist ein einfacheres System zum Einbinden handschriftlicher Notizen, wie oben dargelegt. Das stört mich aber eigentlich eher periphär und aus Prinzip, behindert mich in meiner konkreten Arbeit aber eigentlich nicht.
+
+Viel störender, gerade in Bezug auf den Grundgedanken des Zettelkastens Notizen und Ideen möglichst atomar zu halten, finde ich meine Neigung dazu mittels Webclipper ganze Artikel und Seiten aus dem Web herunterzuladen. Dass diese Funktion praktisch ist muss nicht diskutiert werden, es widerspricht aber der Natur der atomaren Notizen. 
+
+Ich versuche daher momentan Artikel aus Joplin herauszunehmen und schaue mir dazu unterschiedliche Programme an, namentlich vor allem Instapaper und Pocket. Instapaper gefällt mir sehr wegen seinem schlanken Interface und der Möglichkeit Artikel mit effektivem Zeitstempel zu sichern. Das kann wichtig werden für Forschungsarbeiten. Leider wird diese Option dann wieder dadurch konterkariert dass ein sichern von Artikeln hinter einer Paywall nicht möglich ist. Hier speichert Instapaper leider nur den öffentlich zugänglichen Snippet ab und verweist danach auf den Hauptartikel. Damit ist Instapaper für meinen Anwendungsfall eigentlich fast schon wieder raus, da ich zum Teil doch auf Medien unterwegs bin die einen Bezahlbereich haben.
+
+Pocket hat leider das gleiche Problem und das Interface ist dabei nicht so aufgeräumt und schön. Pocket hat eine andere Zielsetzung und präsentiert einem auf dem Startscreen erstmal eine ganze Batterie an Artikeln von denen das Programm meint sie könnten einem gefallen. Meistens interessiert mich das aber nicht und lenkt nur von der Kernfunktionalität ab die ich suche: Bei Bedarf schnell Artikel zu suchen die ich irgendwann mal zu einem Thema abgespeichert habe und nun referenzieren möchte. Da haut einem insbesondere die Tatsache ins Getriebe dass auch Pocket nicht die ganzen Artikel speichert sondern nur den Anreißer, was schlecht ist wenn man nach Keywords suchen möchte.  
+
+Eine Open Source Alternative scheint [Omnivore](https://omnivore.app/) zu sein. Dieses Programm muss ich mich aber erst noch genau ansehen und momentan scheint es leider auch abseits von einem Blogpost auch keine ausführliche Dokumentation zu geben wie man die Software selber hosten kann. Der Installationsaufwand wäre also vermutlich nicht ganz gering.
+
+Weitere interessante Alternativen sind [Wallabag](https://wallabag.org/), [Hoarder](https://hoarder.app/), die ebenfalls beide Open Source sind. Hoarder scheint allerdings eher eine Art Bookmarking App zu sein die Links auf Medieninhalte wie Bilder, Videos, Artikel etc. mit Text-Snippet und Tags versehen abzuspeichern. 
+
+# Notizen zum Artikel schreiben
+
+Weitere Ideen um den Artikel zu erweitern:
+
+- Einbinden und Scannen handschriftlicher Notizen. Youtube Videos zur Recherche dazu:
+- https://www.youtube.com/watch?v=9T9VL8_i1Tg&ab_channel=CyanVoxel
+- https://www.youtube.com/watch?v=tHF8bwVJ--4&ab_channel=TiagoForte
+    - ChatGPT V4 vorrausgesetzt, momentan noch kostenpflichtig. Eine Alternative wäre Google Lens, ist auch auf dem Handy enthalten. Eventuell mal prüfen
+    - https://www.youtube.com/watch?v=KPCCK9Zz3H0&ab_channel=Aitrepreneur
+- Export/Import beschreiben?
+
