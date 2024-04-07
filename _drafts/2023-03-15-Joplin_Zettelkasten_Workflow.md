@@ -109,6 +109,12 @@ Eine Open Source Alternative scheint [Omnivore](https://omnivore.app/) zu sein. 
 
 Weitere interessante Alternativen sind [Wallabag](https://wallabag.org/), [Hoarder](https://hoarder.app/), die ebenfalls beide Open Source sind. Hoarder scheint allerdings eher eine Art Bookmarking App zu sein die Links auf Medieninhalte wie Bilder, Videos, Artikel etc. mit Text-Snippet und Tags versehen abzuspeichern. 
 
+Momentan gehe ich noch den umständlichen Weg Artikel die mir gefallen entweder direkt über den Joplin Webclipper (am PC) in ein eigenes Notizbuch zu speichern. Auf mobilen Plattformen, also wenn ich unterwegs auf dem Handy einen interessanten Artikel finde, bookmarke ich diesen über Pocket und füge ihn dann später irgendwann in Joplin ein. Das erfordert natürlich zusätzliche Arbeit und ist leider nicht besonders ergonomisch, hat aber den Vorteil dass man manchmal doch nochmal nachdenkt ob man einen Artikel wirklich speichern muss und sollte.
+
+## welche Notizen und Artikel sollte ich überhaupt behalten und ergibt digitaler Minimalismus Sinn?
+
+<ausführen>
+
 # Notizen zum Artikel schreiben
 
 Weitere Ideen um den Artikel zu erweitern:
