@@ -125,4 +125,8 @@ Weitere Ideen um den Artikel zu erweitern:
     - ChatGPT V4 vorrausgesetzt, momentan noch kostenpflichtig. Eine Alternative wäre Google Lens, ist auch auf dem Handy enthalten. Eventuell mal prüfen
     - https://www.youtube.com/watch?v=KPCCK9Zz3H0&ab_channel=Aitrepreneur
 - Export/Import beschreiben?
+- Weiter eingehen auf den Prozess beim Notizen schreiben und die unterschiedlichen Arten wie man Notizen schreibt:
+    - geplant, beispielsweise während einer Recherche zu einem Thema
+    - spontan, beispielsweise unterwegs, beim Sport, im Café etc.
+        - deshalb: mehrere Medien vorhalten damit man Reibung reduziert und einfach eine Notiz erstellen kann: ich führe immer das Handy mit, kann dort direkt in Joplin Notizen anlegen, eine Sprachnachricht aufnehmen und habe zusätzlich auch Stift und Papier falls ich darauf Lust habe oder es mehr Sinn macht (bspw. Diagramme oder Skizzen o.ä.)
 
