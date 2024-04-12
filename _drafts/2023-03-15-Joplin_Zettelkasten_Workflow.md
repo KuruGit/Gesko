@@ -12,7 +12,7 @@ date: 2023-04-01 00:00:00
 kurzer Abriss des Zettelkastens, Bibtex Referenzen, Artikel schreiben, Tags und Quer-Referenzen zwischen Notizen und dem Konzept "Schreiben um zu verstehen". Abgrenzung verschiedener Notiz-Typen (Archiv, Recherche und Artikel, kurzfristige Notizen und Ideen)
 
 - https://de.wikipedia.org/wiki/Niklas_Luhmann als Erfinder des Zettelkastens, damals aber noch analog
-- sehr gutes Buch zum Thema, allerdings mit vielen Verweisen auf Studien etc: [Sönke Ahrens - Das Zettelkasten-Prinzip (affiliate Link)](https://amzn.to/49KLIuE)
+- sehr gutes Buch zum Thema, allerdings mit vielen Verweisen auf Studien etc: [Sönke Ahrens - Das Zettelkasten-Prinzip (affiliate Link)](https://amzn.to/49KLIuE)[^1]
 
 ### Das Zettelkasten-Prinzip kurz erklärt
 
@@ -111,9 +111,11 @@ Weitere interessante Alternativen sind [Wallabag](https://wallabag.org/), [Hoard
 
 Momentan gehe ich noch den umständlichen Weg Artikel die mir gefallen entweder direkt über den Joplin Webclipper (am PC) in ein eigenes Notizbuch zu speichern. Auf mobilen Plattformen, also wenn ich unterwegs auf dem Handy einen interessanten Artikel finde, bookmarke ich diesen über Pocket und füge ihn dann später irgendwann in Joplin ein. Das erfordert natürlich zusätzliche Arbeit und ist leider nicht besonders ergonomisch, hat aber den Vorteil dass man manchmal doch nochmal nachdenkt ob man einen Artikel wirklich speichern muss und sollte.
 
-## welche Notizen und Artikel sollte ich überhaupt behalten und ergibt digitaler Minimalismus Sinn?
+## welche Notizen und Artikel sollte ich überhaupt behalten?
 
-<ausführen>
+Joplin verführt einen schnell dazu einfach alles was man findet und was interessant aussieht abzuspeichern und seine eigene, kleine, Knowledgebase zu werfen. Leider auch wenn dies überhaupt keinen Sinn ergibt. Es ist leider eine Unsitte aber auf diese Art kann man sehr einfach sein gesamtes Notizsystem verstopfen und sieht am Ende den Wald vor lauter Bäumen nicht.
+
+Sönke Ahrens verweist in seinem Buch [Das Zettelkasten-Prinzip (affiliate Link)](https://amzn.to/49KLIuE)[^2] 
 
 # Notizen zum Artikel schreiben
 
@@ -129,4 +131,12 @@ Weitere Ideen um den Artikel zu erweitern:
     - geplant, beispielsweise während einer Recherche zu einem Thema
     - spontan, beispielsweise unterwegs, beim Sport, im Café etc.
         - deshalb: mehrere Medien vorhalten damit man Reibung reduziert und einfach eine Notiz erstellen kann: ich führe immer das Handy mit, kann dort direkt in Joplin Notizen anlegen, eine Sprachnachricht aufnehmen und habe zusätzlich auch Stift und Papier falls ich darauf Lust habe oder es mehr Sinn macht (bspw. Diagramme oder Skizzen o.ä.)
+
+- cross-referencing mit anderen Tools, beispielsweise Besprechungsnotizen, Todos oder Notizen mit Verfallsdatum (Erinnerungen, Einkaufszettel usw.) mit Todoist via Joplin Plugin, 
+- Literaturverwaltung mittels Zotero bzw. BibTex Dateien
+
+## Fußnoten und Referenzen
+
+[^1]:Ahrens, Sönke. *Das Zettelkasten-Prinzip: Erfolgreich wissenschaftlich Schreiben und Studieren mit effektiven Notizen*. Norderstedt: BoD Books on Demand 2017.
+[^2]:Ahrens, Sönke. S. 41.
 
