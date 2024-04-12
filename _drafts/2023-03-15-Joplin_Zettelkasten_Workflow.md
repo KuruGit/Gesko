@@ -149,6 +149,16 @@ Ich halte es dabei sehr simpel und notiere vor einer Notiz einfach Datum und Ort
 
 Natürlich kann man dieses Vorgehen auch mit Schmierzetteln, Post-its oder auf der Rückseite von alten Briefumschlägen nutzen, aber ich finde es aufgeräumter in Form dieser Büchlein und die Kosten halten sich auch im Rahmen.
 
+#### Überlegungen zum Übertragen handschriftlicher Notizen nach Joplin
+
+Um Notizen zu übertragen gehe ich normalerweise einen ganz einfachen Weg: Ich tippe sie ab.
+
+Das mag nicht besonders elegant und tech-affin wirken, ist aber meistens die schnellste Variante. Wegen meiner *ahem* nicht so gut lesbaren Handschrift, hatte ich mit OCR bisher nur sehr durchwachsenen Erfolg (auch wenn es dazu in Joplin durchaus Extensions gibt!). 
+
+Man könnte die Seiten natürlich auch einfach als Bilder einscannen/einfügen aber dann wäre unser kompletter Vorteil dahin Notizen durchsuchbar zu machen. Schlimmer noch: Weil wir in einem digitalen Notizbuch davon ausgehen dass alle Notizen durchsuchbar sein sollen würden reine Bild-Notizen unser System ausheben und bestimmte Notizen ggf. bei Recherchen "unsichtbar" machen weil hier schlicht kein Text durchsucht werden kann.
+
+Je nach Komplexität und Aufwand schreibe ich also die interessanten Notizen und Ideen nochmal ab und überarbeite diese ggf. nochmal. Skizzen füge ich dann tatsächlich wahlweise als Scan ein oder baue diese ebenfalls nochmal in Draw.io nach wenn es schön sein soll (nimmt einem eventuell auch Arbeit für spätere Veröffentlichungen ab).
+
 
 
 # Notizen zum Artikel schreiben
