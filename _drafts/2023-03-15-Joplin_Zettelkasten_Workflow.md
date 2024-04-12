@@ -137,7 +137,19 @@ Alle diese Varianten haben Vor- und Nachteile, ich benutze immer worauf ich gera
 
 Größter Vor- und Nachteil dieses Systems ist natürlich dass ich doppelte Arbeit habe: ich schreibe alles auf, nur um dann in der Nachlese doch wieder Teile wegzuwerfen, aufzuräumen, aufzuhübschen.
 
-Für mich überwiegen aber die Vorteile indem ich einfach unterwegs ohne großes Nachdenken Geistesblitze einfangen und niederschreiben kann ohne mich groß darum zu kümmern ob meine Idee nun wirklich genial ist oder nicht. Die A6 Notizbücher nutze ich beispielsweise auch für Notizen die ich "in dem Moment" interessant finde, aber nicht dauerhaft in mein Ablagesystem übertragen möchte. Ich schreibe zum Beispiel öfter meine Eindrücke über ein gutes Essen, die Geschmacksnoten einer neuen Weinsorte oder einfach alltägliche Eindrücke auf. Eine Art Log meines Lebens quasi. Nichts was ich "produktiv" verwerten würde, aber ich sammele gerne diese kleinen Belanglosigkeiten. Die vollen A6 Hefte sichte ich dann wenn ich eins voll habe, übertrage die Guten Sachen in Joplin und sammle die physischen Notizbücher danach in einem Schuhkarton für die Nachwelt. Ich kann diese Praxis nur jedem empfehlen, es hat etwas sehr meditatives sich diese kleinen Gedanken von der Seele zu schreiben und das kleine Format zwingt einen zur Prägnanz. Außerdem kann es sehr erhellend und spannend sein nach ein paar Monaten oder Jahren nochmal durch die Heftchen zu blättern und sich vor Augen zu führen was einen damals bewegt hat. 
+Für mich überwiegen aber die Vorteile indem ich einfach unterwegs ohne großes Nachdenken Geistesblitze einfangen und niederschreiben kann ohne mich groß darum zu kümmern ob meine Idee nun wirklich genial ist oder nicht. 
+
+### Reisenotizbücher, Schmierzettel, Post-its
+
+Die A6 Notizbücher nutze ich für Notizen die ich "in dem Moment" interessant finde, aber nicht dauerhaft in mein Ablagesystem übertragen möchte. Ich schreibe zum Beispiel öfter meine Eindrücke über ein gutes Essen, die Geschmacksnoten von einer neuen Sorte Wein oder einfach alltägliche Eindrücke auf. Eine Art Log meines Lebens quasi. Nichts was ich "produktiv" verwerten würde, aber ich sammle gerne diese kleinen Belanglosigkeiten. Die A6 Hefte sichte ich wenn ich eins voll habe, übertrage die Guten Sachen in Joplin und sammle die physischen Notizbücher danach in einem Schuhkarton für die Nachwelt. 
+
+Ich kann diese Praxis nur jedem empfehlen, es hat etwas sehr meditatives sich diese kleinen Gedanken von der Seele zu schreiben und das kleine Format zwingt einen zur Prägnanz. Außerdem kann es sehr erhellend und spannend sein nach ein paar Monaten oder Jahren nochmal durch die Heftchen zu blättern und sich vor Augen zu führen was einen damals bewegt hat. 
+
+Ich halte es dabei sehr simpel und notiere vor einer Notiz einfach Datum und Ort, falls relevant. Ansonsten trenne ich Einträge einfach durch einen Spiegelstrich. Auf der ersten Seite des Heftchens notiere ich immer das Jahr, die Buchnummer für das Jahr und wann ich begonnen habe in das Buch zu schreiben so dass eine sehr simple Chronik entsteht. Ich benötige normalerweise 4-6 Wochen bis so ein Buch voll ist und sichte dann ein- bis zweimal im Monat die neuen Einträge, je nachdem wann ich dazu mal Lust habe.  
+
+Natürlich kann man dieses Vorgehen auch mit Schmierzetteln, Post-its oder auf der Rückseite von alten Briefumschlägen nutzen, aber ich finde es aufgeräumter in Form dieser Büchlein und die Kosten halten sich auch im Rahmen.
+
+
 
 # Notizen zum Artikel schreiben
 
