@@ -107,7 +107,7 @@ Pocket hat leider das gleiche Problem und das Interface ist dabei nicht so aufge
 
 Eine Open Source Alternative scheint [Omnivore](https://omnivore.app/) zu sein. Dieses Programm muss ich mich aber erst noch genau ansehen und momentan scheint es leider auch abseits von einem Blogpost auch keine ausführliche Dokumentation zu geben wie man die Software selber hosten kann. Der Installationsaufwand wäre also vermutlich nicht ganz gering.
 
-Weitere interessante Alternativen sind [Wallabag](https://wallabag.org/), [Hoarder](https://hoarder.app/), die ebenfalls beide Open Source sind. Hoarder scheint allerdings eher eine Art Bookmarking App zu sein die Links auf Medieninhalte wie Bilder, Videos, Artikel etc. mit Text-Snippet und Tags versehen abzuspeichern. 
+Weitere interessante Alternativen sind [Wallabag](https://wallabag.org/), [Hoarder](https://hoarder.app/), die ebenfalls beide Open Source sind. Hoarder scheint allerdings eher eine Art Bookmarking App zu sein die Links auf Medieninhalte wie Bilder, Videos, Artikel etc. mit Text-Snippets und Tags versehen abspeichert. 
 
 Momentan gehe ich noch den umständlichen Weg Artikel die mir gefallen entweder direkt über den Joplin Webclipper (am PC) in ein eigenes Notizbuch zu speichern. Auf mobilen Plattformen, also wenn ich unterwegs auf dem Handy einen interessanten Artikel finde, bookmarke ich diesen über Pocket und füge ihn dann später irgendwann in Joplin ein. Das erfordert natürlich zusätzliche Arbeit und ist leider nicht besonders ergonomisch, hat aber den Vorteil dass man manchmal doch nochmal nachdenkt ob man einen Artikel wirklich speichern muss und sollte.
 
@@ -115,7 +115,29 @@ Momentan gehe ich noch den umständlichen Weg Artikel die mir gefallen entweder 
 
 Joplin verführt einen schnell dazu einfach alles was man findet und was interessant aussieht abzuspeichern und seine eigene, kleine, Knowledgebase zu werfen. Leider auch wenn dies überhaupt keinen Sinn ergibt. Es ist leider eine Unsitte aber auf diese Art kann man sehr einfach sein gesamtes Notizsystem verstopfen und sieht am Ende den Wald vor lauter Bäumen nicht.
 
-Sönke Ahrens verweist in seinem Buch [Das Zettelkasten-Prinzip (affiliate Link)](https://amzn.to/49KLIuE)[^2] 
+Sönke Ahrens verweist in seinem Buch [Das Zettelkasten-Prinzip (affiliate Link)](https://amzn.to/49KLIuE)[^2] darauf dass es 3 Arten von Notizen gibt:
+
+- **Flüchtige Notizen** dienen nur der Gedächtnisstütze und werden nicht aufbewahrt (siehe bspw. all die Markierungen in Artikeln und Büchern die du nie wieder angesehen hast...)
+- **Dauerhafte Notizen** ausformulierte und verständliche Notizen die dauerhaft aufbewahrt und nach dem immer gleichen Schema erstellt werden. Aufbewahrung entweder im "Zettelkasten" oder der Literaturverwaltung. (Hier liegt der eigentliche Schatz begraben) 
+- **Projektbezogene Notizen** die nur der Gedächtnisstütze für ein Projekt dienen und am Projektende entfernt werden können. Hierzu gehören beispielsweise für mich Hausarbeiten für die Uni, Projektarbeiten für die Arbeit usw. die ich, anstatt in Joplin, in einem geeigneten Programm wie Todoist ablege und dort mit Verfalls- und/oder Abgabedatum versehe.
+
+Nun stellt sich natürlich die Frage wie man dazu kommt seinen digitalen Zettelkasten am Besten nur mit den dauerhaften Notizen zu füllen, und diese am Besten nach einem möglichst stringenten Muster erstellt und über Keywords und andere Metadaten vernünftig indexier- und suchbar macht. 
+
+Zuerst einmal besteht die größte Gefahr darin alle Notizen wie dauerhafte Notizen zu behandeln. Der Vorteil daran ist dass keine Idee und kein Geistesblitz einem abhanden kommt wenn man seine Notizen wie eine Art Tagebuch führt. Der große Nachteil ist aber dass dadurch keine Selektion mehr stattfindet und man wahllos Notizen ohne Vorauswahl erstellt worunter sowohl Qualität als auch Übersichtlichkeit leiden. Wenn man alles aufschreibt dann gehen die guten Ideen ganz schnell zwischen den schlechten unter und das wollen wir, gerade bei einem *dauerhaften* Wissensspeicher natürlich vermeiden.
+
+Wie lösen wir das Problem nun?
+
+Ich für meinen Teil schreibe trotzdem alles, oder wenigstens viel, auf. Trotzdem trenne ich meinen dauerhaften Zettelkasten von den alltäglichen Ideen und übertrage diese erst wenn ich sie gesichtet und in Ruhe überdacht habe. Ganz konkret haben sich dafür drei Wege bei mir etabliert:
+
+- Reisenotizbücher im A6 Format für schnelle handschriftliche Skizzen oder Notizen
+-  Voice Recordings auf dem Smartphone
+- eine eigene "Schmierennotiz" in Joplin in die ich wahllos Dinge eintrage, Fotos einfüge usw.
+
+Alle diese Varianten haben Vor- und Nachteile, ich benutze immer worauf ich gerade Lust habe und was der Situation angemessen erscheint.
+
+Größter Vor- und Nachteil dieses Systems ist natürlich dass ich doppelte Arbeit habe: ich schreibe alles auf, nur um dann in der Nachlese doch wieder Teile wegzuwerfen, aufzuräumen, aufzuhübschen.
+
+Für mich überwiegen aber die Vorteile indem ich einfach unterwegs ohne großes Nachdenken Geistesblitze einfangen und niederschreiben kann ohne mich groß darum zu kümmern ob meine Idee nun wirklich genial ist oder nicht. Die A6 Notizbücher nutze ich beispielsweise auch für Notizen die ich "in dem Moment" interessant finde, aber nicht dauerhaft in mein Ablagesystem übertragen möchte. Ich schreibe zum Beispiel öfter meine Eindrücke über ein gutes Essen, die Geschmacksnoten einer neuen Weinsorte oder einfach alltägliche Eindrücke auf. Eine Art Log meines Lebens quasi. Nichts was ich "produktiv" verwerten würde, aber ich sammele gerne diese kleinen Belanglosigkeiten. Die vollen A6 Hefte sichte ich dann wenn ich eins voll habe, übertrage die Guten Sachen in Joplin und sammle die physischen Notizbücher danach in einem Schuhkarton für die Nachwelt. Ich kann diese Praxis nur jedem empfehlen, es hat etwas sehr meditatives sich diese kleinen Gedanken von der Seele zu schreiben und das kleine Format zwingt einen zur Prägnanz. Außerdem kann es sehr erhellend und spannend sein nach ein paar Monaten oder Jahren nochmal durch die Heftchen zu blättern und sich vor Augen zu führen was einen damals bewegt hat. 
 
 # Notizen zum Artikel schreiben
 
