@@ -125,6 +125,8 @@ Nun stellt sich natürlich die Frage wie man dazu kommt seinen digitalen Zettelk
 
 Zuerst einmal besteht die größte Gefahr darin alle Notizen wie dauerhafte Notizen zu behandeln. Der Vorteil daran ist dass keine Idee und kein Geistesblitz einem abhanden kommt wenn man seine Notizen wie eine Art Tagebuch führt. Der große Nachteil ist aber dass dadurch keine Selektion mehr stattfindet und man wahllos Notizen ohne Vorauswahl erstellt worunter sowohl Qualität als auch Übersichtlichkeit leiden. Wenn man alles aufschreibt dann gehen die guten Ideen ganz schnell zwischen den schlechten unter und das wollen wir, gerade bei einem *dauerhaften* Wissensspeicher natürlich vermeiden.
 
+Das zweite Problem besteht darin die Notizen als projektbezogen zu deklarieren die man eigentlich wiederverwenden könnte. Auch dieser Fall sollte relativ klar sein, denn häufig trifft man beim Arbeiten an einem Projekt natürlich auch auf Fragen oder Sachverhalte die auch in einem anderen Kontext relevant sein können. Hier gilt es also abzuwägen ob es sich nicht doch lohnt eine Notiz als dauerhafte Notiz aufzuarbeiten.
+
 Wie lösen wir das Problem nun?
 
 Ich für meinen Teil schreibe trotzdem alles, oder wenigstens viel, auf. Trotzdem trenne ich meinen dauerhaften Zettelkasten von den alltäglichen Ideen und übertrage diese erst wenn ich sie gesichtet und in Ruhe überdacht habe. Ganz konkret haben sich dafür drei Wege bei mir etabliert:
