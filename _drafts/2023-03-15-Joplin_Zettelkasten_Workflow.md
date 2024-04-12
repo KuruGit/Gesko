@@ -178,6 +178,9 @@ Weitere Ideen um den Artikel zu erweitern:
 
 - cross-referencing mit anderen Tools, beispielsweise Besprechungsnotizen, Todos oder Notizen mit Verfallsdatum (Erinnerungen, Einkaufszettel usw.) mit Todoist via Joplin Plugin, 
 - Literaturverwaltung mittels Zotero bzw. BibTex Dateien
+- Joplin mit Templates automatisieren
+- custom css in Notizen, siehe https://discourse.joplinapp.org/t/how-to-change-css-style-for-inline-code-block/11210
+- 
 
 ## Fußnoten und Referenzen
 
