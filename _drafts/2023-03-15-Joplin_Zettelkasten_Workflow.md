@@ -183,7 +183,7 @@ Weitere Ideen um den Artikel zu erweitern:
 - Joplin mit Templates automatisieren
 - custom css in Notizen, siehe https://discourse.joplinapp.org/t/how-to-change-css-style-for-inline-code-block/11210
 - Flow Charts einfügen mit Mermaid https://dompl.medium.com/produce-great-looking-flowcharts-in-seconds-7f3bea64f2e2
-- 
+- Interessanter Artikel der beschreibt wie man digital mit Papier kombinieren kann und warum: https://todoist.com/de/productivity-methods/medium-method
 
 ## Fußnoten und Referenzen
 
