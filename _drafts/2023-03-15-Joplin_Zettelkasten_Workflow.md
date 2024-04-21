@@ -187,7 +187,7 @@ Weitere Ideen um den Artikel zu erweitern:
 - Vorteile handschriftlicher Notizen: 
     - https://www.scientificamerican.com/article/a-learning-secret-don-t-take-notes-with-a-laptop/
     - https://www.scientificamerican.com/article/why-writing-by-hand-is-better-for-memory-and-learning/
-
+- Tips zur Organisation (auch beim Lernen): Starte langsam, probiere verschiedene Systeme aus und implementiere nach und nach was funktioniert. Wenn man alles auf einmal umsetzt (Notizen-App, Todo-App, Read-Later App, ganze Transfer Workflows,...) kommt man schnell ins Schleudern weil sich noch nicht rausgebildet hat was für den eigenen Anwendungsbereich funktioniert und wo die Grenzen des eigenen Systems liegen und wie man mit diesen umgehen möchte. Weniger ist mehr! 
 
 ## Fußnoten und Referenzen
 
