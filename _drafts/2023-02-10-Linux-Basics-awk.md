@@ -14,11 +14,11 @@ Da awk mittlerweile ein paar Jahre auf dem Buckel hat, wird das ursprüngliche P
 
 ## Warum sollte ich awk verwenden?
 
-Egal wie man es dreht und wendet, awk ist schon ein wenig angestaubt aufgrund seines Alters. Trotzdem ist awk ein unglaublich starkes tool - sofern man sich innerhalb der Grenzen seines Einsatzbereiches bewegt. Sprachen wie *Perl* oder *Python* sind mit Sicherheit vielseitiger, aber wenn man "nur" Daten bspw. aus einer Log-Datei extrahieren möchte ist awk eines der besten tools die man nutzen kann da die Skripte relativ kurz sind (oft nur 1-2 Zeilen lang) und awk wesentlich schneller arbeitet als beispielsweise ein Python Skript. 
+Egal wie man es dreht und wendet, awk ist schon ein wenig angestaubt aufgrund seines Alters. Trotzdem ist awk ein unglaublich starkes tool - sofern man sich innerhalb der Grenzen seines Einsatzbereiches bewegt. Sprachen wie *Perl* oder *Python* sind mit Sicherheit vielseitiger, aber wenn man "nur" Daten bspw. aus einer Log-Datei extrahieren möchte ist awk eines der besten tools die man nutzen kann da die Skripte relativ kurz sind (oft nur 1-2 Zeilen lang) und awk wesentlich schneller arbeitet als beispielsweise ein Python Skript. Ebenfalls eignet sich awk laut meiner Erfahrung ganz wunderbar zur Formatierung von Output, beispielsweise wenn man das Ergebnis einer SQL Abfrage ein wenig umformatieren und aufhübschen möchte.
 
-Ein Awk-Programm besteht aus einer Reihe von Muster-Aktion Paaren. Das bedeutet, dass awk eine oder mehrere
+Ein Awk-Programm besteht aus einer Reihe von **Muster-Aktion Paaren**. Das bedeutet, dass awk eine oder mehrere
 Dateien zeilenweise durchsucht und mit dem vorgegebenen Muster abgleicht. Wird eine passende Zeile gefunden,
-so wird die zugewiesene Aktion durchgeführt. Muster können hier beispielsweise durch regular expressions, Vergleichsoperationen auf Zahlen, Zeichenketten, Feldern, Variablen usw. sein. 
+so wird die zugewiesene Aktion durchgeführt. Muster können hier beispielsweise durch regular expressions, Vergleichsoperationen auf Zahlen, Zeichenketten, Feldern, Variablen usw. vorgegeben sein. 
 
 Bonuspunkte bekommt awk weil es in praktisch jeder Linux Basisinstallation zu finden ist und damit die Administration von Systemen mit unbekannter Konfiguration erleichtert.
 
