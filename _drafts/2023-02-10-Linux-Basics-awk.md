@@ -54,7 +54,13 @@ Dabei erfolgt der Aufruf von awk mittels des Programmnamens `awk`, einem sogenan
 
 Man kann `awk` sehr gut mit `sed` kombinieren. Anbei ein paar Beispiele. Eine kurze `sed` Einführung gibt es im [Artikel zu sed]({% post_url 2023-01-20-Linux-Basics-sed %}).
 
+## Weitere Informationen
 
+Dieser Artikel kann und soll nur einen groben Überblick geben. Umfangreichere Informationen und eine ganze Liste der vordefinierten Variablen, Parameter etc. findet man entweder lokal in den man und info pages oder aber [online](https://www.gnu.org/software/gawk/manual/).  
+
+Als refresher: die man pages ruft man auf über `man awk` und die info pages über `info awk`.
+
+Als einfache und gute Alternative kann ich hier allerdings noch das Tool `tldr` empfehlen, über das ebenfalls nochmal ein Artikel folgen wird.
 
 ## Fußnoten
 
