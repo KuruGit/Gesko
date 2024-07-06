@@ -74,10 +74,13 @@ Außerdem gibt es zwar sehr viele Extensions und Plugins für Joplin, diese werd
 
 Wie bekomme ich Informationen möglichst einfach und schnell in mein Notizenprogramm und was sollte ich dort überhaupt notieren?
 
-- Weiterleitung von Mails,
+- Weiterleitung von Mails
 - einfügen von voice Notizen
 - eine Notiz für stream of consciousness oder andere kurze Gedanken
-- inbox zero gedanke bei Mails etc 
+- inbox zero Gedanke bei Mails etc
+- Handschriftliche Notizen als zur Vorsortierung
+- Scannen und einfügen handschriftlicher Notizen
+- OCR 
 
 ## Risiken und Warnung zur Nutzung und Grenzen	
 
@@ -161,7 +164,24 @@ Man könnte die Seiten natürlich auch einfach als Bilder einscannen/einfügen a
 
 Je nach Komplexität und Aufwand schreibe ich also die interessanten Notizen und Ideen nochmal ab und überarbeite diese ggf. nochmal. Skizzen füge ich dann tatsächlich wahlweise als Scan ein oder baue diese ebenfalls nochmal in Draw.io nach wenn es schön sein soll (nimmt einem eventuell auch Arbeit für spätere Veröffentlichungen ab).
 
+## Going digital - die Vorteile der digitalen Lagerung von Daten und Gedanken
 
+Einleitung Vorteile digitaler Notizen:
+
+- Durchsuchbarkeit
+- Tagging
+- Beständigkeit (sofern darauf geachtet wird freie und einfache Formate zu verwenden)
+- Dezentralität (Cloud, Smartphone, PC, Laptop alles synchronisiert und dauerhaft verfügbar)
+
+### tagging
+
+Artikel ausführen, KISS Prinzip. Wichtig sich zu limitieren (bspw. auf 3-5 Tags je Notiz). Framework für Notizen aufbauen, beispielsweise festgelegte Tags für jede Notiz: Typ (bspw. Projekt, Meeting, Rezept, Artikel...), Thema (Arbeit, Unikurs, Party, Kochen,...), Datumsangabe (mache ich automatisch per Plugin in der Notiz) und 2-3 Tags für granulare Auswahl (Beispielsweise spez. Thema wie "MySQL", "systemctl", "Usermanagement"). Aber vermeiden zu spezifisch zu werden weil man dann sowieso nichts mehr findet und seine Keywordliste zumüllt.
+
+Tagging muss von hinten aufgerollt werden mit der Frage: Wonach suche ich wenn ich eine Frage habe? Sicher nicht nach dem konkreten Kommandozeilenbefehl, sonst müsste man seine Notizen nicht durchsuchen.
+
+
+
+Ziel ist es dass unsere Notizen einer gewissen Struktur folgen.   
 
 # Notizen zum Artikel schreiben
 
