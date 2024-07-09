@@ -26,3 +26,17 @@ Tape Backups fallen also bei mir weg.
 
 Ich habe aber (AWS kompatiblen) Object Storage bei meinem Hoster, ein Google Drive bei Google und ein Onedrive bei Microsoft. 
 
+Mein Plan sieht nun so aus mir ein kleines Skript zu schreiben das meine Backups entgegen nimmt, verschlüsselt und regelmäßig auf den Cloud Speicher des jeweiligen Anbieters schiebt. 
+
+Dafür benötigen wir teils Tools der jeweiligen Anbieter die uns erst ermöglichen uns gegen die jeweiligen Dienste zu verbinden. Dazu später mehr.
+
+# Die Umsetzung
+
+blablabla
+
+## Contabo Object Storage
+
+## Google Drive
+
+## Onedrive
+
