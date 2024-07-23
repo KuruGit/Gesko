@@ -28,6 +28,16 @@ date: 2023-02-01 00:00:00
 - -L: locks Account
 - -e 1: sets expiration date to Jan 02, 1970 and prohibits users from changing time settings and logging in again
 
+## Housekeeping
+
+### alle Dateien finden und löschen die älter als x Tage sind
+
+`find . -type f -iname "*.log" -mtime +7 -ls`
+
+`find . -type f -iname "*.log" -mtime +7 -delete`
+
+Das `-ls` flag im ersten Beispiel listet die Dateien nur, dann kann man nochmal checken. Das `-delete` flag löscht die Dateien dann tatsächlich.
+
 ## Tools
 
 ### fail2ban
