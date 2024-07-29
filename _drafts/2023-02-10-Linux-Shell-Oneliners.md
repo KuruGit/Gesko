@@ -19,6 +19,10 @@ date: 2023-02-01 00:00:00
 
 `find -type f -exec du -Sh {} + | sort -rh | head -n 5`
 
+### Diff zum Vergleich von zwei Verzeichnissen
+
+`diff -qr dir_1 dir_2`
+
 ## Usermanagement
 
 ### Lock User Account
