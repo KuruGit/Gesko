@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Shorts - PIPESTATUS
-description: In diesem Short werde ich kurz das Tool tldr vorstellen.
-summary: In diesem Short werde ich kurz das Tool tldr vorstellen. Tldr gibt für einen gegebenen Befehl eine kurze, prägnante Beschreibung zusammen mit den meist verwendeten Befehlsparametern und Beispielaufrufen an. Dadurch muss man sich in der täglichen Arbeit nicht erst durch die manpages arbeiten.
-tags: shorts tools cli
-date: 2024-05-31 00:00:00
+description: In diesem Short werden wir die Array Variable PIPESTATUS besprechen mit der sich die Exit Codes aus einer Pipe analysieren lassen 
+summary: In diesem Short werden wir die Array Variable PIPESTATUS besprechen mit der sich die Exit Codes aus einer Pipe analysieren lassen  
+tags: shorts tools cli Bash Zsh Shell
+date: 2025-03-04 00:00:00
 
 ---
 
