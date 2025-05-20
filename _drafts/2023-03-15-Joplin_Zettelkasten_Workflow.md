@@ -78,13 +78,13 @@ Wie bekomme ich Informationen möglichst einfach und schnell in mein Notizenprog
 - einfügen von voice Notizen
 - eine Notiz für stream of consciousness oder andere kurze Gedanken
 - inbox zero Gedanke bei Mails etc
-- Handschriftliche Notizen als zur Vorsortierung
+- Handschriftliche Notizen zur Vorsortierung
 - Scannen und einfügen handschriftlicher Notizen
 - OCR 
 
 ## Risiken und Warnung zur Nutzung und Grenzen	
 
-Es gibt tausende Tools dort draußen, von Notizen Managern wie Joplin über Kalender und Zeitmanagement Apps, Literaturmanagern, Aggregatoren, Todo-Listen und einer Million anderer Themen. Wichtig ist seinem eigenen Workflow treu zu bleiben. Ich selber habe auch schon zig Todo Apps durchprobiert, habe es mit Pomodoro und Zeitmanagement Apps probiert und für mich selber herausgefunden dass ich mit den meisten dieser Apps nichts anfangen kann. Im Gegenteil, viele dieser Apps bringen mich überhaupt erst dazu über Probleme nachzudenken von denen ich nicht wusste dass ich sie angeblich hatte! Dadurch nimmt man sich selbst aber keine Arbeit ab sondern schafft sich höchstens mehr Arbeit. Das Ziel sollte es doch aber sein einem (Denk-) Arbeit abzunehmen.
+Es gibt tausende Tools dort draußen, von Notiz-Managern wie Joplin über Kalender und Zeitmanagement Apps, Literaturmanager, Aggregatoren, Todo-Listen und einer Million anderer Themen. Wichtig ist seinem eigenen Workflow treu zu bleiben. Ich selber habe auch schon zig Todo Apps durchprobiert, habe es mit Pomodoro und Zeitmanagement Apps probiert und für mich selber herausgefunden dass ich mit den meisten dieser Apps nichts anfangen kann. Im Gegenteil, viele dieser Apps bringen mich überhaupt erst dazu über Probleme nachzudenken von denen ich nicht wusste dass ich sie angeblich habe! Dadurch nimmt man sich selbst aber keine Arbeit ab sondern schafft sich höchstens mehr Probleme. Das Ziel sollte es doch aber sein einem (Denk-) Arbeit abzunehmen.
 
 Ich habe beispielsweise ein paar Tage mit dem Versuch verbracht alle meine verschiedenen Informationsquellen an einem Ort zusammenzuziehen, also Bookmarks, Zitate und Markierungen von Websites bis zu ganzen Artikeln (am Besten mit Zeitstempel oder direkt einer Kopie der ganzen Seite). Vor einer Weile habe ich für diesen Zweck schonmal mit Pocket herumgespielt, bin aber insgesamt wieder davon abgekommen da ich zum einen zum Hoarding neige und praktisch einfach alles zum später lesen abspeichere (um es dann nie wieder anzusehen) und mich außerdem gestört hat dass ich dann neben Joplin noch mindestens einen weiteren Ort habe an dem ich nach Informationen suchen muss.
 
@@ -186,6 +186,9 @@ Ziel ist es dass unsere Notizen einer gewissen Struktur folgen.
 # Notizen zum Artikel schreiben
 
 Weitere Ideen um den Artikel zu erweitern:
+
+- Kontrapunkte aufführen: Notizen anlegen ist zeitaufwendig, doppelte Arbeit, wenn man nur sammelt und nicht aufnimmt was man in seine Notizen aufnimmt ist der Lerneffekt 0. Daraus folgt aber ebenso:
+    - Selektiv sein beim Anlegen von Notizen. Worauf ist zu achten, was für Notizen brauche ich was für Notizen brauche ich nicht? 
 
 - Einbinden und Scannen handschriftlicher Notizen. Youtube Videos zur Recherche dazu:
 - https://www.youtube.com/watch?v=9T9VL8_i1Tg&ab_channel=CyanVoxel

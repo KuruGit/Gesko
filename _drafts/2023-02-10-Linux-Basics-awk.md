@@ -56,7 +56,7 @@ Man kann `awk` sehr gut mit `sed` kombinieren. Anbei ein paar Beispiele. Eine ku
 
 ## Weitere Informationen
 
-Dieser Artikel kann und soll nur einen groben Überblick geben. Umfangreichere Informationen und eine ganze Liste der vordefinierten Variablen, Parameter etc. findet man entweder lokal in den man und info pages oder aber [online](https://www.gnu.org/software/gawk/manual/).  
+Dieser Artikel kann und soll nur einen groben Überblick geben. Umfangreichere Informationen und eine ganze Liste der vordefinierten Variablen, Parameter etc. findet man entweder lokal in den `man` und `info` pages oder aber [online](https://www.gnu.org/software/gawk/manual/).  
 
 Als refresher: die man pages ruft man auf über `man awk` und die info pages über `info awk`.
 
