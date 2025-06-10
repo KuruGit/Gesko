@@ -70,6 +70,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-relative-links
   jekyll-sitemap
+  sassc
 
 BUNDLED WITH
    2.3.15
